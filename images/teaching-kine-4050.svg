@@ -1,11 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Line chart icon">
   <rect width="200" height="200" rx="24" fill="#e7edf9" />
-  <text
-    x="100"
-    y="110"
-    text-anchor="middle"
-    font-family="Inter, 'Segoe UI', Arial, sans-serif"
-    font-size="48"
-    font-weight="600"
-    fill="#27324b">4050</text>
+  <g fill="none" stroke="#27324b" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="42" y1="44" x2="42" y2="156" stroke-width="8" />
+    <line x1="42" y1="156" x2="158" y2="156" stroke-width="8" />
+    <polyline points="58,134 86,112 110,122 138,86 158,70" stroke-width="8" />
+  </g>
+  <g fill="#27324b">
+    <circle cx="58" cy="134" r="5" />
+    <circle cx="86" cy="112" r="5" />
+    <circle cx="110" cy="122" r="5" />
+    <circle cx="138" cy="86" r="5" />
+    <circle cx="158" cy="70" r="5" />
+  </g>
 </svg>

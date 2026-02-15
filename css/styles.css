@@ -262,14 +262,16 @@ main {
 }
 
 .teaching-card__objectives,
-.teaching-card__outcomes {
+.teaching-card__outcomes,
+.teaching-card__description-group {
   display: flex;
   flex-direction: column;
   gap: 8px;
 }
 
 .teaching-card__objectives h4,
-.teaching-card__outcomes h4 {
+.teaching-card__outcomes h4,
+.teaching-card__description-group h4 {
   margin: 0;
   font-size: 14px;
   letter-spacing: 0.12em;
@@ -285,6 +287,13 @@ main {
   gap: 6px;
   color: var(--color-text);
   font-size: 16px;
+}
+
+.teaching-card__description {
+  margin: 0;
+  color: var(--color-text);
+  font-size: 16px;
+  line-height: 1.6;
 }
 
 .about {
