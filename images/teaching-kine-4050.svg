@@ -1,14 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Line chart icon">
   <rect width="200" height="200" rx="24" fill="#e7edf9" />
-  <g fill="none" stroke="#27324b" stroke-linecap="round" stroke-linejoin="round" stroke-width="14">
-    <polyline points="42,40 42,158 160,158" />
-    <polyline points="64,130 90,108 114,118 140,82 160,64" />
+  <g fill="none" stroke="#27324b" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="42" y1="44" x2="42" y2="156" stroke-width="8" />
+    <line x1="42" y1="156" x2="158" y2="156" stroke-width="8" />
+    <polyline points="58,134 86,112 110,122 138,86 158,70" stroke-width="8" />
   </g>
   <g fill="#27324b">
-    <circle cx="64" cy="130" r="10" />
-    <circle cx="90" cy="108" r="10" />
-    <circle cx="114" cy="118" r="10" />
-    <circle cx="140" cy="82" r="10" />
-    <circle cx="160" cy="64" r="10" />
+    <circle cx="58" cy="134" r="5" />
+    <circle cx="86" cy="112" r="5" />
+    <circle cx="110" cy="122" r="5" />
+    <circle cx="138" cy="86" r="5" />
+    <circle cx="158" cy="70" r="5" />
   </g>
 </svg>
