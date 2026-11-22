@@ -1,21 +1,28 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Coming soon icon">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Kettlebell icon">
   <rect width="200" height="200" rx="24" fill="#e9f7f0" />
-  <text
-    x="100"
-    y="94"
-    text-anchor="middle"
-    font-family="Inter, 'Segoe UI', Arial, sans-serif"
-    font-size="24"
-    font-weight="700"
-    letter-spacing="1.6"
-    fill="#1f3a2e">COMING</text>
-  <text
-    x="100"
-    y="124"
-    text-anchor="middle"
-    font-family="Inter, 'Segoe UI', Arial, sans-serif"
-    font-size="24"
-    font-weight="700"
-    letter-spacing="1.6"
-    fill="#1f3a2e">SOON</text>
+  <path
+    transform="translate(24 25) scale(0.19)"
+    fill="#1f3a2e"
+    fill-rule="evenodd"
+    d="M400 68
+       C520 68 590 80 615 120
+       C650 175 645 250 610 320
+       L592 364
+       C625 405 645 460 642 530
+       C640 610 590 680 545 715
+       Q535 724 515 724
+       H285
+       Q265 724 255 715
+       C210 680 160 610 158 530
+       C155 460 175 405 208 364
+       L190 320
+       C155 250 150 175 185 120
+       C210 80 280 68 400 68 Z
+       M400 131
+       C470 131 548 134 568 152
+       C588 170 578 236 548 304
+       C500 287 450 280 400 280
+       C350 280 300 287 252 304
+       C222 236 212 170 232 152
+       C252 134 330 131 400 131 Z" />
 </svg>

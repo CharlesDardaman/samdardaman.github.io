@@ -1,21 +1,15 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Coming soon icon">
-  <rect width="200" height="200" rx="24" fill="#e9f7f0" />
-  <text
-    x="100"
-    y="94"
-    text-anchor="middle"
-    font-family="Inter, 'Segoe UI', Arial, sans-serif"
-    font-size="24"
-    font-weight="700"
-    letter-spacing="1.6"
-    fill="#1f3a2e">COMING</text>
-  <text
-    x="100"
-    y="124"
-    text-anchor="middle"
-    font-family="Inter, 'Segoe UI', Arial, sans-serif"
-    font-size="24"
-    font-weight="700"
-    letter-spacing="1.6"
-    fill="#1f3a2e">SOON</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Sprinting athlete icon">
+  <rect width="200" height="200" rx="24" fill="#fbe9ec" />
+  <g fill="none" stroke-linecap="round" stroke-linejoin="round">
+    <line x1="31" y1="62" x2="78" y2="62" stroke="#5a1f2b" stroke-width="6.5" />
+    <line x1="51" y1="47" x2="76" y2="47" stroke="#5a1f2b" stroke-width="6.5" />
+    <line x1="51" y1="77" x2="76" y2="77" stroke="#5a1f2b" stroke-width="6.5" />
+    <line x1="100" y1="116" x2="51" y2="163" stroke="#5a1f2b" stroke-width="11.5" />
+    <line x1="138" y1="144" x2="95" y2="148" stroke="#fbe9ec" stroke-width="20" />
+    <polyline points="100,116 138,144 95,148" stroke="#5a1f2b" stroke-width="11.5" />
+    <polyline points="142,72 118,57 103,71" stroke="#5a1f2b" stroke-width="10" />
+    <line x1="142" y1="72" x2="100" y2="116" stroke="#5a1f2b" stroke-width="14" />
+    <polyline points="142,72 154,98 177,98" stroke="#5a1f2b" stroke-width="10" />
+  </g>
+  <circle cx="159" cy="55" r="11.5" fill="#5a1f2b" />
 </svg>
