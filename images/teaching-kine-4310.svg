@@ -1,11 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Kettlebell icon">
   <rect width="200" height="200" rx="24" fill="#e9f7f0" />
   <path
-    d="M74 98 C60 72 70 46 100 46 C130 46 140 72 126 98"
-    fill="none"
-    stroke="#1f3a2e"
-    stroke-width="10"
-    stroke-linecap="round" />
-  <path d="M66 154 A42 42 0 1 1 134 154 Z" fill="#1f3a2e" />
-  <rect x="72" y="150" width="56" height="10" rx="4" fill="#1f3a2e" />
+    transform="translate(24 25) scale(0.19)"
+    fill="#1f3a2e"
+    fill-rule="evenodd"
+    d="M400 68
+       C520 68 590 80 615 120
+       C650 175 645 250 610 320
+       L592 364
+       C625 405 645 460 642 530
+       C640 610 590 680 545 715
+       Q535 724 515 724
+       H285
+       Q265 724 255 715
+       C210 680 160 610 158 530
+       C155 460 175 405 208 364
+       L190 320
+       C155 250 150 175 185 120
+       C210 80 280 68 400 68 Z
+       M400 158
+       C465 158 530 161 548 175
+       C566 190 553 242 526 300
+       C486 285 444 278 400 278
+       C356 278 314 285 274 300
+       C247 242 234 190 252 175
+       C270 161 335 158 400 158 Z" />
 </svg>
