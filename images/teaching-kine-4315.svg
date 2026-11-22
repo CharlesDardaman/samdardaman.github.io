@@ -1,15 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Sprinting athlete icon">
   <rect width="200" height="200" rx="24" fill="#fbe9ec" />
   <g fill="none" stroke-linecap="round" stroke-linejoin="round">
-    <line x1="32" y1="62" x2="78" y2="62" stroke="#5a1f2b" stroke-width="6" />
-    <line x1="52" y1="48" x2="76" y2="48" stroke="#5a1f2b" stroke-width="6" />
-    <line x1="52" y1="76" x2="76" y2="76" stroke="#5a1f2b" stroke-width="6" />
-    <line x1="100" y1="116" x2="52" y2="162" stroke="#5a1f2b" stroke-width="10" />
-    <line x1="138" y1="144" x2="96" y2="148" stroke="#fbe9ec" stroke-width="18" />
-    <polyline points="100,116 138,144 96,148" stroke="#5a1f2b" stroke-width="10" />
-    <polyline points="142,72 118,58 104,72" stroke="#5a1f2b" stroke-width="9" />
-    <line x1="142" y1="72" x2="100" y2="116" stroke="#5a1f2b" stroke-width="12" />
-    <polyline points="142,72 154,98 176,98" stroke="#5a1f2b" stroke-width="9" />
+    <line x1="31" y1="62" x2="78" y2="62" stroke="#5a1f2b" stroke-width="7" />
+    <line x1="51" y1="47" x2="76" y2="47" stroke="#5a1f2b" stroke-width="7" />
+    <line x1="51" y1="77" x2="76" y2="77" stroke="#5a1f2b" stroke-width="7" />
+    <line x1="100" y1="116" x2="51" y2="163" stroke="#5a1f2b" stroke-width="13" />
+    <line x1="138" y1="144" x2="95" y2="148" stroke="#fbe9ec" stroke-width="22" />
+    <polyline points="100,116 138,144 95,148" stroke="#5a1f2b" stroke-width="13" />
+    <polyline points="142,72 118,57 103,71" stroke="#5a1f2b" stroke-width="11" />
+    <line x1="142" y1="72" x2="100" y2="116" stroke="#5a1f2b" stroke-width="16" />
+    <polyline points="142,72 154,98 177,98" stroke="#5a1f2b" stroke-width="11" />
   </g>
-  <circle cx="158" cy="56" r="11" fill="#5a1f2b" />
+  <circle cx="159" cy="55" r="12" fill="#5a1f2b" />
 </svg>
