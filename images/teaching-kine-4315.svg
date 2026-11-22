@@ -1,14 +1,16 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="Sprinting athlete icon">
   <rect width="200" height="200" rx="24" fill="#fbe9ec" />
+  <g transform="translate(0 8)">
   <g fill="none" stroke="#5a1f2b" stroke-linecap="round" stroke-linejoin="round">
     <polyline points="136.1,64.2 111.8,56.1 96.7,73.5" stroke-width="14" />
     <polyline points="136.1,64.2 147.7,89.7 172.1,92.1" stroke-width="14" />
     <polyline points="136.1,64.2 108.3,112.9" stroke-width="21" />
     <polyline points="108.3,112.9 140.8,121.1 132.7,148.9" stroke-width="17" />
-    <polyline points="108.3,112.9 37.5,166.3" stroke-width="17" />
+    <polyline points="108.3,112.9 82,131 54,151" stroke-width="17" />
     <line x1="53.2" y1="48.6" x2="79.3" y2="48.6" stroke-width="8" />
     <line x1="30.0" y1="64.2" x2="85.1" y2="64.2" stroke-width="8" />
     <line x1="51.5" y1="80.5" x2="79.3" y2="80.5" stroke-width="8" />
   </g>
   <circle cx="155.9" cy="43.3" r="13" fill="#5a1f2b" />
+  </g>
 </svg>
